@@ -1,0 +1,13 @@
+.roxo{
+    background-color: #42057a;
+    color: #fff;
+}
+.roxo h1{
+    margin: 10%;
+}
+
+/*
+h1{
+    margin: 10%;  estilo nao aceito pos precisa da desgnaçao da classe modularizadora 
+}
+*/

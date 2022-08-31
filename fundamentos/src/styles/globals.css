@@ -1,5 +1,5 @@
 html,
-body {
+body {          /*as definiçoes setadas em global.css afeta todas as paginas do escopo*/
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
@@ -14,13 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
-
+/*
 @media (prefers-color-scheme: dark) {
   html {
-    color-scheme: dark;
+    color-scheme: ligh;
   }
-  body {
-    color: white;
-    background: black;
-  }
+
 }
+*/
