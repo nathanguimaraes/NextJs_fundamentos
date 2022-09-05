@@ -1,10 +1,13 @@
+import styles from '../styles/Estiloso.module.css'
 import Cabecalho from "../components/Cabecalho"; //importacao automatica  do nosso componente
+import Link from "next/link";
 
 export default function Exemplo(){
     return(
         <>
-            <Cabecalho/>
-            <Cabecalho/>
+        <Link href={"/estiloso"}> "Ir para Estiloso"</Link>
+            <Cabecalho titulo="Next.Js & React"/>
+            
         </> 
         
     )
