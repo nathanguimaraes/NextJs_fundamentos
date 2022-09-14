@@ -13,6 +13,8 @@ return(
      <Navegador texto="Estiloso" destino="/estiloso" colors="#9400d3"/>
      <Navegador texto="Exemplo" destino="/exemplo" colors="crimson"/>
      <Navegador texto="JSX" destino="/jsx"/>
+     <Navegador texto="Navegação #01" destino="/navegacao" colors="green"/>
+
     </div>
 )
 }
