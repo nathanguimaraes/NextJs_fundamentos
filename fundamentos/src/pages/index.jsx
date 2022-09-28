@@ -14,6 +14,9 @@ return(
      <Navegador texto="Exemplo" destino="/exemplo" colors="crimson"/>
      <Navegador texto="JSX" destino="/jsx"/>
      <Navegador texto="Navegação #01" destino="/navegacao" colors="green"/>
+     <Navegador texto="Navegação #02" destino="/cliente/123" colors="blue"/>
+     <Navegador texto="Componente com Estado" destino="/estado" colors="yellow"/>
+
 
     </div>
 )
